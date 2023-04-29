@@ -1,0 +1,16 @@
+.hero-img{
+    height: 100vh;
+    background-image: url('../../../assests/indian\ spice.avif');
+    background-repeat: no-repeat ;
+    background-position: top;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-content{
+    position: absolute;
+    top: 20%;
+}
+.hero-content p {
+    font-size: 30px;
+}
